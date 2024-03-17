@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-1-week-10-more-about-functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-1-week-5-arithmetic-and-functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-1-week-9-functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-2-yet-more-about-functions-and-numpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-3-random-numpy-random-matplotlib-pyplot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-4-using-numpy-in-programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-5-sympy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-7-an-introduction-to-algorithms-and-complexity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-8-sets-frozensets-dictionaries-files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/term-2-week-9-data-handling-and-the-pandas-module" vcs="Git" />
+  </component>
+</project>
